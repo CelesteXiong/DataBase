@@ -1,5 +1,5 @@
-# DataBase :)
-The Repository is records for `homework` and `labs` in the compulsory course for ECNUers in Dase.  
+# DataBase 
+The Repository is records for `homework` and `labs` in the compulsory course for ECNUers in Dase : )
 ## Homework 
 ### Hunt_game_design
 1. Requirement and code are located in   `Hunt_games.rar`

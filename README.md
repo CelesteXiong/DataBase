@@ -7,6 +7,7 @@ The Repository is records for `homework` and `labs` in the compulsory course for
 ### Hunt_game_design_mysql
 1. the MYSQL version of the `Hunt_game_design`
 ### BookStore_design
+1. the book store is implemented in `MongoDB`, `MySQL` and UI
 ## MYSQL
 1. the grammer and install of mysql
 ## PostgreSQL
